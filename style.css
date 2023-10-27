@@ -1,0 +1,357 @@
+.img{
+			background-image: url("https://images01.nicepage.com/2c/aa/2caae017a61202f87bc36fab57e85a63.png");
+			background-repeat: no-repeat;  
+			width: 100%;
+			height: 100vh;
+			background-size: cover;
+		}
+
+
+.offset-1 {
+    /* margin-left: 8.33333333%; */
+}
+		#heading{
+			font-size: 20px;
+			color: #f4cb08;
+
+		}
+		#heading-1{
+/*			font-size: 20px;*/
+			color: white;
+			
+
+		}
+		.box{
+			height: 20px;
+			width: 100px;
+			border-top: 3px solid #f4cb08;
+			margin-top: 30px;
+		}
+		.btn-1{
+			background-color: yellow;
+			border-color: yellow;
+			border-radius: 5px;
+			border: none;
+			height: 43px;
+			margin-top: 20px;
+		}
+		.btn-2{
+			border: 3px solid white;
+			margin-top: 20px;
+			color: white;
+		}
+		.btn-2:hover{
+			background-color: white;
+			color: black;
+		}
+
+		.img2{
+			height: 603px;
+			width: 100%;
+		}
+		#heading2{
+			font-size: 25px;
+			color: #f4cb08;
+		}
+		.span-item1{
+			font-size: 20px;
+			color: #b3b3b3;
+		}
+		.hero-section{
+			margin-top: 70px;
+			margin-left: 35px;
+			margin-right: 35px;
+		}
+
+		.back{
+			background-image: url("img/img2.png");
+			height: 50vh;
+/*			width: 100%;*/
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		.back1{
+			background-image: url("img/img3.png");
+			height: 50vh;
+/*			width: 100%;*/
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		.back2{
+			background-image: url("img/img4.png");
+			height: 50vh;
+/*			width: 100%;*/
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		.body{
+			margin-top:70px;
+		}
+		.h-1{
+			font-size: 23px;
+			color: 	white;
+/*			margin-top: 30;*/
+		}
+		#heading3{
+			font-size: 25px;
+			color: #f4cb08;
+			text-align: center;
+		}
+		.body-2{
+			margin-top:70px;
+			font-style: bold;
+		}
+		.icons{
+/*			font-size: 20px;*/
+			width: 	60px;	
+			border: 3px solid #f4cb08;
+			border-radius: 10px;
+		}
+		.section-3{
+			margin-top: 30px;
+			margin-right: 40px;
+			margin-left: 40px;
+		}
+		.section-4{
+			margin-right: 40px;
+			margin-left: 40px;
+		}
+		.body-3{
+			margin-top: 70px;
+			background-color: #111111;
+		}
+		#h-2{
+			color: white;
+			text-align: center;
+			margin-top: 5px;
+		}
+		.body-4{
+			margin-top: 70px;
+			background-color: white;
+		}
+		#heading31{
+			font-size: 25px;
+			color: #f4cb08;
+		}
+		.body-5{
+			margin-top: 70px;
+			background-image: url("img/img5.jpeg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 200px;
+			width: auto;
+/*			background-color: black;*/
+		}
+		.counters{
+			margin-top: 50px ;
+/*			margin-left: 40px;*/
+		}
+		#h-3{
+			text-align: center;
+			margin-top: 5px;
+		}
+		.body-6{
+			margin-top: 70px;
+			background-color: #2c2c2c;
+		}
+		.borders{
+			border: 2px solid white;
+			margin-right: 20px;
+			margin-left: 50px;
+			color: white;
+			padding: 15px;
+			padding-bottom: 60px;
+		}
+		.imge{
+			height: 100px;
+			margin-top: -50px;
+		}
+		.imge1{
+			height: 100px;
+			margin-left: 70px;
+		}
+		#h-6{
+			font-size: 25px;
+			color: #f4cb08;
+				margin-right: 77px;
+				margin-bottom: 100px;
+		}
+		#h-9{
+			color: white;
+			margin-right: 77px;
+		}
+		.body-7{
+			background-image: url("img/img9.png");
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 350px;
+		}
+		.anker{
+			color: black;
+		}
+		.body-8{
+			margin-bottom: 70px;
+		}
+		.body09{
+			background-color: #f4cb08;
+			height: 300px;
+		}
+		#heading32{
+			color: white;
+			margin-top: 100px;
+			margin-left: 50px;
+		}
+		.para-1{
+			color: white;
+			margin-left: 50px;
+			margin-top: 15px;
+		}
+		.btn-3{
+			margin-top: 100px;
+			border: 3px solid white;
+			border-radius: 5px;
+			height: 50px;
+			background-color: #f4cb08;
+			color: white;
+			width: 200px;
+		}
+		.btn-3:hover{
+			background-color: white;
+			color: black;
+		}
+		.body-88{
+			background-color:  #2c2c2c;
+			height: 50px;
+		}
+		.anker1{
+			color: #f4cb08;
+		}
+		@media only screen and (max-width:576px){
+
+				.img2{
+					display: none;
+				}
+		}
+
+		@media only screen and (max-width:584px){
+			.bfimg{
+				display: none;
+			}
+
+		}
+		@media only screen and (max-width:1024px){
+			.img{
+				background-image: url("https://images01.nicepage.com/2c/aa/2caae017a61202f87bc36fab57e85a63.png");
+				width: 100%;
+				background-size: cover;
+				height: 100vh;
+				margin: 0;
+			}
+			.img2{
+			height: 450px;
+			width: 100%;
+		}
+			.img-grt3{
+				display: none;
+			}
+		}
+		@media only screen and (max-width:786px){
+			.img2{
+				display: none;
+			}
+			.img-grt3{
+				display: none;
+			}
+			.borders{
+			border: 2px solid white;
+			margin-right: 20px;
+			margin-left: 30px;
+			color: white;
+			padding: 15px;
+			padding-bottom: 60px;
+		}
+
+		.imge1{
+			height: 100px;
+			margin-left: 50px;
+		}
+
+
+		}
+		@media only screen and (max-width:320px){
+			 .body-6 {
+				display: none;
+			}
+			.img{
+				background-image: url("https://images01.nicepage.com/2c/aa/2caae017a61202f87bc36fab57e85a63.png");
+				width: 100%;
+				background-size: cover;
+				height: 100vh;
+				margin: 0;
+			}
+			.back{
+			background-image: url("img/img2.png");
+			height: 50vh;
+			width: 100%;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		.back1{
+			background-image: url("img/img3.png");
+			height: 50vh;
+			width: 100%;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		.back2{
+			background-image: url("img/img4.png");
+			height: 50vh;
+			width: 100%;
+			background-repeat: no-repeat;
+			background-size: cover;
+		}
+		.body-4{
+			display: none;
+		}
+		.body-5{
+			margin-top: 0;
+			background-image: url("img/img5.jpeg");
+			background-repeat: no-repeat;
+			background-size: cover;
+			height: 546px;
+			text-align: center;
+			width: auto;
+			background-color: black;
+		}
+		.counters{
+			background-color: black;
+			margin-top: 0;
+		}
+		#box1{
+			margin-left: 90px;
+		}
+		.body-8{
+			display: none;
+		}
+		.btn-3{
+			margin-top: 0px;
+			border: 3px solid white;
+			border-radius: 5px;
+			height: 50px;
+			background-color: #f4cb08;
+			color: white;
+			width: 200px;
+		}
+		.body-4{
+			display: none;
+		}
+		.body-6{
+			margin-top: 0px;
+			background-color: #2c2c2c;
+		}
+
+
+
+		}
+
+
